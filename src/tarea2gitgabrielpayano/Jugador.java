@@ -11,4 +11,8 @@ package tarea2gitgabrielpayano;
  */
 public class Jugador {
     
+    String nombre;
+    int votos;
+    int id;
+    
 }
