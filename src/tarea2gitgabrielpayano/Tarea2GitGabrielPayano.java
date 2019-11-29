@@ -19,6 +19,8 @@ public class Tarea2GitGabrielPayano {
         
         
         Jugador jugador1= new Jugador("gabriel",1,1);
+        
+        
     }
     
 }
